@@ -1,4 +1,7 @@
 # ramithu-laknada<h1 align="center">Hi 👋, I'm ramithu lakknaa</h1>
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Girl in a jacket" width="500" height="600">
+
+
 <h3 align="center">A passionate frontend developer from sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laknada&label=Profile%20views&color=0e75b6&style=flat" alt="laknada" /> </p>
