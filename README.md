@@ -1,5 +1,5 @@
 # ramithu-laknada<h1 align="center">Hi 👋, I'm ramithu lakknaa</h1>
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Girl in a jacket" width="500" height="600">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Girl in a jacket" width="auto" height="auto">
 
 
 <h3 align="center">A passionate frontend developer from sri lanka</h3>
